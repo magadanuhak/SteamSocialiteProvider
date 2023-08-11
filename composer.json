@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/steam",
+    "name": "magadanuhack/steam-socialite-providers",
     "description": "Steam OpenID Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
@@ -13,6 +13,10 @@
         {
             "name": "Christopher Eklund",
             "email": "eklundchristopher@gmail.com"
+        },
+         {
+            "name": "Maga Daniel",
+            "email": "magadanuhak@gmail.com"
         }
     ],
     "support": {
